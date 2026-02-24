@@ -10,8 +10,8 @@ return [
     'acceptance_request' => 'Akzeptierungsanfrage',
     'custom_export' => [
         'user_address' => 'Adressinformation',
-        'user_city' => 'Stadt des Benuzers',
-        'user_state' => 'Stadt des Benutzers',
+        'user_city' => 'Stadt des Benutzers',
+        'user_state' => 'Bundesland des Benutzers',
         'user_country' => 'Land des Benutzers',
         'user_zip' => 'Postleitzahl des Benutzers'
     ],
